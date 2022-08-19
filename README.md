@@ -1,6 +1,8 @@
 
 # .NET 6.0 Blazor WASM Bootstrap Template
 
+Test how .NET 6 + Blazor wasm works
+
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/csharp-templates/blazor-wasm.png)](https://blazor-wasm.jamstacks.net)
 
 > Browse [source code](https://github.com/NetCoreTemplates/blazor-wasm), view live demo [blazor-wasm.jamstacks.net](https://blazor-wasm.jamstacks.net) and install with [x new](https://docs.servicestack.net/dotnet-new):
